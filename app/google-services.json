@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1074121879860",
+    "firebase_url": "https://yellowlightfeedback.firebaseio.com",
+    "project_id": "yellowlightfeedback",
+    "storage_bucket": "yellowlightfeedback.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074121879860:android:6ccc3ae84d75ce90",
+        "android_client_info": {
+          "package_name": "com.example.jessie.responsetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074121879860-koa0hevec7od5mj50eidfha5vpn5c577.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jessie.responsetest",
+            "certificate_hash": "f937d9226d3ad2bf3808868fc19d0f66147a803e"
+          }
+        },
+        {
+          "client_id": "1074121879860-c1l31kapvaapv8l8nrrm2q97e8fb445k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1074121879860-c1l31kapvaapv8l8nrrm2q97e8fb445k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLt1dUHt3SokKVBhgo4LIhKcYvswZCoU8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074121879860-c1l31kapvaapv8l8nrrm2q97e8fb445k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
